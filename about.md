@@ -8,6 +8,3 @@ I'm an ambitious astronomer, pursuing my undergraduate degree in Physics and Ast
 
 Outside of my academic pursuits, I enjoy listening to music, travelling and astrophotography during my free time.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
